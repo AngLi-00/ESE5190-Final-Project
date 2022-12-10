@@ -17,3 +17,5 @@ To know the angle of your sitting posture, we have write a function to compute i
 
       return temp_x, temp_y, temp_z;
     }
+## 12.9 UPDATE
+We finished the basic part of MPU6050 and LCD (in code.py).
